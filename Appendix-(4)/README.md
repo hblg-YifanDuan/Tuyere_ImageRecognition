@@ -1,1 +1,1 @@
-asd
+The pseudocode for the calculation and hyperparameter adjusting of "Ar" described in the article is provided in the "Algorithm1.pdf". Since the research content of the article involves business value, readers can contact us if they have further needs.
