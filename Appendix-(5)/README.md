@@ -1,1 +1,1 @@
-abc
+We provide the comparison chart about the time series difference of each label in six tuyere states, which are (1) Batch weight of coke and Batch weight of ore, (2) Coal injection volume and Blast kinetic energy, and (3) Flow of oxygen enriched and Pressure of oxygen enriched. Among them, we also take into account the pressure, because it has a certain mapping relationship with Flow of oxygen enriched.
